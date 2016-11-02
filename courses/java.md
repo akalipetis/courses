@@ -25,6 +25,8 @@
 * [HTML5 and HTML forms](java/html5.md)
 * [Introduction to CSS](java/css.md)
 * [Grids and columns with Bootstrap](java/bootstrap.md)
+* [The HTTP protocol](java/http.md)
+* [Hello Servlet](java/servlets.md)
 
 ## Project week 1
 
